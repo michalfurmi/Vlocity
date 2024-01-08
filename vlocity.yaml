@@ -1,0 +1,10 @@
+projectPath: ./autorabit_alldefault_vlocity_build
+manifest:
+- OmniScript/Reusable_Sample_English
+maxDepth: -1
+autoUpdateSettings: true
+separateMatrixVersions: true
+separateCalculationProcedureVersions: false
+CompileOnBuild: true
+ignoreLWCActivationOS: true
+ignoreLWCActivationCards: true
